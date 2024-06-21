@@ -13,8 +13,8 @@ Proxy Bot is a Telegram bot that helps users manage and use proxy servers. It pr
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/proxy-bot.git
-   cd proxy-bot
+   git clone https://github.com/exGeni/free_proxy_telegram_bot.git
+   cd free_proxy_telegram_bot
    ```
 
 2. Create a virtual environment and activate it:
