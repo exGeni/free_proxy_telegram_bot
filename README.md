@@ -1,6 +1,6 @@
 # Proxy Bot
 
-Proxy Bot is a Telegram bot that helps users manage and use proxy servers. It provides functionalities to get new proxies, check current proxies, and offers a simple interface for users to interact with proxy services.
+Proxy Bot is a Telegram bot that helps users manage and use proxy servers. It provides functionalities to get new proxies, check current proxies, and offers a simple interface for users to interact with proxy services. To retrieve proxy data, the open source free API service proxyscrape.com is used. To store data, a local database is created using SQLite. 
 
 ## Features
 
