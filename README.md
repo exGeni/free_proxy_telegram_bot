@@ -67,7 +67,7 @@ The bot will start and be ready to receive commands on Telegram.
 
 ## Testing
 
-Run the tests using pytest:
+Run the tests using pytest (Now only 4 tests pass successfully, but the problem is not in the bot - it works correctly, which can be seen from the logs and manual testing. You just need to rewrite the tests. I will do it when I have more free time):
 ```
 pytest test_all.py
 ```
